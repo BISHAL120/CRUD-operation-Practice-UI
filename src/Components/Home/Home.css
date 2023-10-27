@@ -1,0 +1,14 @@
+.products {
+    width: 90%;
+    margin: 0 auto;
+    padding: 30px;
+    background-color: aqua;
+}
+.imgs {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.imgs img{
+    width: 200px;
+}
